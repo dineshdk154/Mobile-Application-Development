@@ -3,7 +3,7 @@
 
 ## AIM:
 
-To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio.
+To create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio..
 
 ## EQUIPMENTS REQUIRED:
 
